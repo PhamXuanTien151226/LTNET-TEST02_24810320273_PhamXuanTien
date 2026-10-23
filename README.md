@@ -45,7 +45,7 @@
 
 | Giao diện & Avatar | Hộp thoại Đọc / Ghi CSV | Danh sách nạp từ CSV |
 | :---: | :---: | :---: |
-| ![Main](docs/bai2_main.png) | ![CSV](docs/bai2_csv.png) | ![Result](docs/bai2_result.png) |
+| ![Main](docs/bai2_main.png) | ![CSV](docs/bai2_error.png) | ![Result](docs/bai2_result.png) |
 
 ---
 
@@ -57,7 +57,7 @@
 
 | Khung MDI & Form con | Xếp tầng (Cascade / Tile) | Ngăn chặn Duplicate Form |
 | :---: | :---: | :---: |
-| ![MDI](docs/bai3_mdi.png) | ![Cascade](docs/bai3_cascade.png) | ![Prevent Duplicate](docs/bai3_prevent_dup.png) |
+| ![MDI](docs/bai3_main.png) | ![Cascade](docs/bai3_error.png) | ![Prevent Duplicate](docs/bai3_result.png) |
 
 ---
 
@@ -69,7 +69,7 @@
 
 | Đang tải (Không đơ Form) | Hủy tác vụ thành công | Kết quả tổng hợp báo cáo |
 | :---: | :---: | :---: |
-| ![Running](docs/bai4_running.png) | ![Cancel](docs/bai4_cancel.png) | ![Result](docs/bai4_result.png) |
+| ![Running](docs/bai4_main.png) | ![Cancel](docs/bai4_error.png) | ![Result](docs/bai4_result.png) |
 
 ---
 
@@ -81,7 +81,7 @@
 
 | Trạng thái Bình thường | Cảnh báo Vượt ngưỡng | Bảng Log & Đếm chu kỳ |
 | :---: | :---: | :---: |
-| ![Normal](docs/bai5_running.png) | ![Warning](docs/bai5_warning.png) | ![Result](docs/bai5_result.png) |
+| ![Normal](docs/bai5_main.png) | ![Warning](docs/bai5_error.png) | ![Result](docs/bai5_result.png) |
 
 ---
 
