@@ -11,18 +11,6 @@
 
 ---
 
-## BẢNG TỔNG HỢP TIẾN ĐỘ THỰC HIỆN
-
-| Bài tập | Nội dung nghiệp vụ | Trạng thái | Đánh giá (%) |
-| :---: | :--- | :---: | :---: |
-| **Bài 1** | Quản lý Đặt phòng Khách sạn (2-Way Data Binding & ErrorProvider) | Hoàn thành | 100% |
-| **Bài 2** | Quản lý Hồ sơ Nhân sự & Lương (System Dialogs, CSV & StatusStrip) | Hoàn thành | 100% |
-| **Bài 3** | Hệ thống MDI Quản lý Đào tạo (Kiến trúc MDI & Vòng đời Form con) | Hoàn thành | 100% |
-| **Bài 4** | Bảng Điều khiển Báo cáo Kho (Async/Await & Cancellation) | Hoàn thành | 100% |
-| **Bài 5** | Mô phỏng Giám sát IoT Real-time (Cross-Thread Safety & Invoke) | Hoàn thành | 100% |
-
----
-
 ## KẾT QUẢ THỰC HÀNH CHI TIẾT
 
 ### BÀI 1: QUẢN LÝ ĐẶT PHÒNG KHÁCH SẠN
@@ -85,8 +73,3 @@
 
 ---
 
-## HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
-
-1. Clone kho lưu trữ về máy:
-   ```bash
-   git clone [https://github.com/PhamXuanTien151226/LTNET-TEST02_24810320273_PhamXuanTien.git](https://github.com/PhamXuanTien151226/LTNET-TEST02_24810320273_PhamXuanTien.git)
