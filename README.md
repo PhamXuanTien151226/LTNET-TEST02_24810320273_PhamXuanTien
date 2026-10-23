@@ -7,7 +7,6 @@
 - **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
 - **Tên bài tập:** TEST 02 - Lập trình Windows Forms Thực hành Nâng cao
-- **Link Repository:** https://github.com/PhamXuanTien151226/LTNET-TEST02_24810320273_PhamXuanTien
 
 ---
 
